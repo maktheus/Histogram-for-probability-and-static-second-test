@@ -10,8 +10,8 @@ Para rodar o código basta rodar o arquivo .py
 As imagens dos histogramas gerados ficarão salvos na pasta do projeto com os nomes "histograma_idade.svg" e "histograma_peso.svg".
 
 As imagens dos histogramas geradas são:
-![Histograma Idade](https://github.com/maktheus/Histogram-for-probability-and-static-second-test/histograma_idade.svg)
-![Histograma Peso](https://github.com/maktheus/Histogram-for-probability-and-static-second-test/histograma_peso.svg)
+![Histograma Idade](https://github.com/maktheus/Histogram-for-probability-and-static-second-test/blob/master/histograma_idade.svg)
+![Histograma Peso](https://github.com/maktheus/Histogram-for-probability-and-static-second-test/blob/master/histograma_peso.svg)
 
 Código-fonte disponível em: https://github.com/maktheus/Histogram-for-probability-and-static-second-test
 
